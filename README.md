@@ -4,9 +4,6 @@
 
 I am planning to create a personal portoflio website for displaying User Experience projects with a built in chat window that allows employers and other people to reach out to me over the website. Portfolio will also include support for locked projectes with log in requirements in order to view said locked projects, and persistent messaging between viewers and myself that will email both parties additionally.
 
-> [!NOTE]
-> If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
-
 ## 🚀 Specification Deliverable
 
 
