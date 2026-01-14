@@ -9,9 +9,6 @@ I am planning to create a personal portoflio website for displaying User Experie
 
 ## 🚀 Specification Deliverable
 
-> [!NOTE]
-> Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
-
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [ ] Proper use of Markdown
@@ -60,6 +57,7 @@ I am going to use the required technologies in the following ways.
   - retrieve & store page analytic for owners view
 - **DB/Login** - Store users, messages, preferences in database. Register and login users. Cant view project unless logged in to whitelisted account.
 - **WebSocket** - When users send messages they update live to their pages.
+
 
 ## 🚀 AWS deliverable
 
