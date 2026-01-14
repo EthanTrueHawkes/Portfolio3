@@ -22,7 +22,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Personal portoflio website for displaying User Experience projects with a built in chat window that allows employers and other people to reach out to me over the website. Portfolio will also include support for locked projectes with log in requirements in order to view said locked projects, and persistent messaging between viewers and myself that will email both parties additionally.
+Imagine a designer who is proficent with design systems and has technical coding experience to compliment the skill, who can also design with development limitations in mind. This is a personal portfolio that an such an individual is creating in order to showcase their expertise in the field. It is a full stack design portfolio creates from scratch, that implements browser to browser communication and persistent user information. (I promise I'm not trying to sound high and mighty, but it says elevator pitch so I have to pitch it)
 
 ### Design
 
