@@ -25,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Personal portoflio website for displaying User Experience projects with a built in chat window that allows employers and other people to reach out to me over the website. Portfolio will also include support for locked projectes with log in requirements in order to view said locked projects, and persistent messaging between viewers and myself that will email both parties additionally.
 
 ### Design
 
