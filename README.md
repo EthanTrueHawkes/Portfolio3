@@ -42,9 +42,12 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Introductory landing page about owner. 
+- 1 design portfolio piece.
+- Live chat feature with owner. 
+- Log in feature for accessing locked portfolio pieces.
+- Light / dark mode toggle w/ cookie.
+- Owner portfolio piece analytics with viewcount & duration.
 
 ### Technologies
 
