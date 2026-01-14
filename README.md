@@ -53,12 +53,16 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses correct HTML structure for application. Three HTML pages for log in, landing page and 1 portfolio piece.
+- **CSS** - Visual effects, hover animations & dark mode variations.
+- **React** - Provides login, messaging board, and interactive navigational buttons for portfolio piece and landing page.
+- **Service** - Backend service with endpoints for:
+  - login
+  - retrieving preferences
+  - sending & retrieving messages
+  - retrieve & store page analytic for owners view
+- **DB/Login** - Store users, messages, preferences in database. Register and login users. Cant view project unless logged in to whitelisted account.
+- **WebSocket** - When users send messages they update live to their pages.
 
 ## 🚀 AWS deliverable
 
