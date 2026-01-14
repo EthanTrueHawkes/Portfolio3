@@ -9,13 +9,14 @@ I am planning to create a personal portoflio website for displaying User Experie
 
 ## 🚀 Specification Deliverable
 
+
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
+- [x] Description of key features
+- [x] Description of how you will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -23,9 +24,15 @@ Imagine a designer who is proficent with design systems and has technical coding
 
 ### Design
 
-![Design image](placeholder.png)
+![LandingPage](Assets/PortfolioLandingPage.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The first fold of landing page will display my name, and a short ad lib about me, messages, and navigation. It will also contain my top 3 interests in the field of both UX Design & Computer Science. When one of these interests is hovered a visual design corresponding to the item will appear to the right of the item. 
+
+![ProjectPage](Assets/PortfolioProjectView.png)
+
+The project view will display the visual of the project with a short description, then jump into scope, role, and timeline.
+Afterwards the content for the case study will follow and have a persistent UI showcasing where in the process the user currently is.
+
 
 ```mermaid
 sequenceDiagram
