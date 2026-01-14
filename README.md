@@ -1,4 +1,4 @@
-# Your startup name here
+# Personal portfolio
 
 [My Notes](notes.md)
 
