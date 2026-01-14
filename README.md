@@ -6,9 +6,6 @@ I am planning to create a personal portoflio website for displaying User Experie
 
 ## 🚀 Specification Deliverable
 
-
-For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
-
 - [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
 - [x] Description of key features
