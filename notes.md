@@ -1,6 +1,6 @@
 # CS 260 Notes
 
-[My startup - Simon](https://simon.cs260.click)
+[True Hawkes Portfolio](https://TrueHawkes.com)
 
 ## Helpful links
 
@@ -10,8 +10,21 @@
 
 ## AWS
 
-My IP address is: 54.81.96.130
-Launching my AMI I initially put it on a private subnet. Even though it had a public IP address and the security group was right, I wasn't able to connect to it.
+My IP address is: 100.51.188.152
+
+Domain Names: TrueHawkes.com TrueHawks.com
+
+Cost: Server $43/year. Domain Names 15/year per domain name. Elastic IP .5cents/hour while server is offline.
+
+I can secure shell into my server to change information if I am on a computer with the Harvest.pem key pair. This key pair verifies I am allowed to change the server when secure shelling into it. Secure shell: ssh -i Keys/"Harvest EC2 Key.pem" ubuntu@100.51.188.152
+
+Notes: 
+
+A Name: Address name, returns the IP address when name is put into browser
+CName: Name Aliases, returns different Cnames or a names that eventually resolve into an A name. Lets multiple names go to same IP Adress.
+SOA Name: Gives my contact information to those with proper authority
+NS Name: Gives me authority over the web domain
+
 
 ## Caddy
 
